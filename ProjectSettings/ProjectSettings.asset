@@ -616,7 +616,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -630,7 +630,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 405617c4-86de-4db4-a5ab-3cc69f20d485
+  cloudProjectId: bb819bed-96a8-4aed-9d0d-aa4a47a23e2e
   framebufferDepthMemorylessMode: 0
   projectName: ni
   organizationId: umeneri1
