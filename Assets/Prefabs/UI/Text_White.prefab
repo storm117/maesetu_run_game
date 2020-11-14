@@ -37,6 +37,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1023578978664527334, guid: 2f570d7a46098b9468e213560703f882,
+        type: 3}
+      propertyPath: m_Text
+      value: dssdd
+      objectReference: {fileID: 0}
     - target: {fileID: 6091497496644135001, guid: 2f570d7a46098b9468e213560703f882,
         type: 3}
       propertyPath: m_Name
