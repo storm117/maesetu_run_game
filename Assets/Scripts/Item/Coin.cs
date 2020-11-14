@@ -10,7 +10,7 @@ public class Coin : MonoBehaviour
 
     GameManager gameManager;
     SoundManager soundManager;
-    int score = 100;    //とりあえずデフォルト値を100としておく
+    int score = 1000;    //とりあえずデフォルト値を100としておく
     float speed = 5;    //とりあえずデフォルト値を5としておく
 
     public int Score
