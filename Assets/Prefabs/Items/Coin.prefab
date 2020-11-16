@@ -67,7 +67,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 955961f8238ad83479a63af1cb06ef1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  getSe: {fileID: 8300000, guid: 754d3518993964ccdbd60b25c3ec3771, type: 3}
+  getSe: {fileID: 8300000, guid: d86a7c7ac7bf749a3b5d3d40717932d7, type: 3}
 --- !u!222 &3267328077788918865
 CanvasRenderer:
   m_ObjectHideFlags: 0
