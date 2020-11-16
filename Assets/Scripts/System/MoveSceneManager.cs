@@ -69,7 +69,7 @@ public class MoveSceneManager : SingletonMonoBehaviour<MoveSceneManager>
 		CurrentSceneNum = sceneNum;
 
 		//フェードオブジェクトを生成
-		fadeCanvasObj = Instantiate(fadeCanvasPrefab);
+		//fadeCanvasObj = Instantiate(fadeCanvasPrefab);
 
 		//コンポーネントを取得
 		fadeCanvas = fadeCanvasObj.GetComponent<FadeCanvas>();
