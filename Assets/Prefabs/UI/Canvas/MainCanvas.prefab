@@ -152,6 +152,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: 'Score: 00000000'
       objectReference: {fileID: 0}
+    - target: {fileID: 3308089412256084769, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3b00b7cbcd03e6a4d847c214679ad5f5,
+        type: 3}
     - target: {fileID: 8598940492123451038, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
         type: 3}
       propertyPath: m_Name
@@ -291,6 +297,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: 'High: 00000000'
       objectReference: {fileID: 0}
+    - target: {fileID: 3308089412256084769, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3b00b7cbcd03e6a4d847c214679ad5f5,
+        type: 3}
     - target: {fileID: 8598940492123451038, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
         type: 3}
       propertyPath: m_Name
@@ -430,6 +442,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: Lv.1
       objectReference: {fileID: 0}
+    - target: {fileID: 3308089412256084769, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3b00b7cbcd03e6a4d847c214679ad5f5,
+        type: 3}
     - target: {fileID: 8598940492123451038, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
         type: 3}
       propertyPath: m_Name
@@ -569,6 +587,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: 0m
       objectReference: {fileID: 0}
+    - target: {fileID: 3308089412256084769, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3b00b7cbcd03e6a4d847c214679ad5f5,
+        type: 3}
     - target: {fileID: 8598940492123451038, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
         type: 3}
       propertyPath: m_Name
@@ -713,6 +737,12 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3308089412256084769, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 3b00b7cbcd03e6a4d847c214679ad5f5,
+        type: 3}
     - target: {fileID: 8598940492123451038, guid: 3215e95d3bf767e4a9f5b025fc2d7cd7,
         type: 3}
       propertyPath: m_Name
